@@ -8,4 +8,4 @@ individual risk of being detected.
 In our CNS 2013 paper, http://www2.hawaii.edu/~ruizhang/paper/zhang-CNS13.pdf, we found that the social botnets can be used 
 for spam distribution and digital influence manipulation. 
 
-Here we come up with two defenses against each of them. 
+Here we come up with two defenses against each of them, and prepare for the extended journal version.
